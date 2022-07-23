@@ -1,2 +1,2 @@
 # uber_clone
-Uber saytini clone versiyasi
+Clone Uber web site
